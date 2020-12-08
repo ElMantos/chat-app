@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# build products
+public
+
+# production
+build
+
+
+/**/*.d.ts
