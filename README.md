@@ -12,4 +12,6 @@
 - run `yarn android:bundle` to bundle fo release
 - build .apk with Android Studio
 
+### IOS
+
 - building app for IOS is done according to RN docs
