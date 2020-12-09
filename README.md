@@ -7,4 +7,9 @@
 
 ## Building
 
-- building is run according to RN docs
+### Android
+
+- run `yarn android:bundle` to bundle fo release
+- build .apk with Android Studio
+
+- building app for IOS is done according to RN docs
